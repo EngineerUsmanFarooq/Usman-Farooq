@@ -29,7 +29,7 @@ Focused on writing clean, maintainable, and efficient code aligned with modern s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EngineerUsmanFarooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngineerUsmanFarooq&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ Designed and developed a full-stack car rental application simulating real-world
 
 ### Hand Gesture Recognition Web Application
 
-Live Demo: https://engineerusmanfarooq.github.io/HandGestureWebAPP
+Live Demo: https://engineerusmanfarooq.github.io/HandGestureWebAPP 
 Repository: https://github.com/EngineerUsmanFarooq/HandGestureWebAPP
 
 Technology Stack: JavaScript | Web APIs  
