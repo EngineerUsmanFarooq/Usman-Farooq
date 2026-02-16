@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Farooq</h1>
-<h3 align="center">Full Stack Software Engineer | MERN Stack Engineer</h3>
+<h3 align="center">Full Stack Software Engineer | MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=26&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Full+Stack+MERN+Developer;RESTful+API+Design;Open+to+Global+Opportunities" />
@@ -17,113 +17,117 @@ Focused on writing clean, maintainable, and efficient code aligned with modern s
 
 ---
 
-## Technical Skills
+## 💻 Core Competencies
+
+- Full Stack MERN Development (MongoDB, Express, React, Node.js)  
+- RESTful API Design & Integration  
+- Frontend & Backend Architecture  
+- Authentication & Authorization  
+- Responsive & Clean UI Design  
+- Modular & Maintainable Code  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,git,github,tailwind" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngineerUsmanFarooq&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-vercel.vercel.app/?user=EngineerUsmanFarooq&theme=tokyonight" />
 </p>
 
 ---
 
-## GitHub Analytics
+## 🌟 Featured Projects
+
+---
+
+### 🚗 BookCar – Full Stack Car Rental Platform (MERN)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngineerUsmanFarooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngineerUsmanFarooq&theme=tokyonight&hide_border=true" />
+  <img src="https://via.placeholder.com/700x400.png?text=BookCar+Project+Screenshot" width="700"/>
 </p>
 
----
+Live Demo: https://bookcar-wine.vercel.app  
+Repository: https://github.com/EngineerUsmanFarooq/bookcar  
 
+**Technology Stack:** MongoDB | Express.js | React.js | Node.js  
 
-
-
-
----
-
-## Professional Projects
-
----
-
-### BookCar – Full Stack Car Rental Platform (MERN)
-
-Live Demo: bookcar-wine.vercel.app
-Repository: https://github.com/EngineerUsmanFarooq/bookcar 
-
-Technology Stack: MongoDB | Express.js | React.js | Node.js  
-
-Key Features:
+**Key Features:**
 - Secure user authentication
 - Car listing and booking system
 - RESTful API integration
 - Backend database management
 - Responsive UI design
 
-Overview:  
-Designed and developed a full-stack car rental application simulating real-world booking workflows and backend architecture.
-
 ---
 
-### Hand Gesture Recognition Web Application
+### ✋ Hand Gesture Recognition Web Application
 
-Live Demo: https://engineerusmanfarooq.github.io/HandGestureWebAPP 
-Repository: https://github.com/EngineerUsmanFarooq/HandGestureWebAPP
+<p align="center">
+  <img src="https://via.placeholder.com/700x400.png?text=Hand+Gesture+App+Screenshot" width="700"/>
+</p>
 
-Technology Stack: JavaScript | Web APIs  
+Live Demo: https://engineerusmanfarooq.github.io/HandGestureWebAPP  
+Repository: https://github.com/EngineerUsmanFarooq/HandGestureWebAPP  
 
-Key Features:
+**Technology Stack:** JavaScript | Web APIs  
+
+**Key Features:**
 - Real-time gesture detection
 - Interactive UI response
 - Event-driven processing logic
 
-Overview:  
-Developed an interactive web-based application capable of detecting and responding to hand gestures in real time.
-
 ---
 
-### QuickSign – Digital Signature Application
+### ✍ QuickSign – Digital Signature Application
 
-Live Demo: https://engineerusmanfarooq.github.io/sign 
-Repository: https://github.com/EngineerUsmanFarooq/sign
+<p align="center">
+  <img src="https://via.placeholder.com/700x400.png?text=QuickSign+App+Screenshot" width="700"/>
+</p>
 
-Technology Stack: HTML | CSS | JavaScript  
+Live Demo: https://engineerusmanfarooq.github.io/sign  
+Repository: https://github.com/EngineerUsmanFarooq/sign  
 
-Key Features:
+**Technology Stack:** HTML | CSS | JavaScript  
+
+**Key Features:**
 - Canvas-based signature drawing
 - Clear and save functionality
 - Smooth user interaction
 
-Overview:  
-Built a lightweight and responsive web application for creating and managing digital signatures.
-
 ---
 
-### Interactive Piano Web Application
+### 🎹 Interactive Piano Web Application
 
-Live Demo: https://engineerusmanfarooq.github.io/Piano-App
+<p align="center">
+  <img src="https://via.placeholder.com/700x400.png?text=Piano+App+Screenshot" width="700"/>
+</p>
+
+Live Demo: https://engineerusmanfarooq.github.io/Piano-App  
 Repository: https://github.com/EngineerUsmanFarooq/Piano-App  
 
-Technology Stack: JavaScript | DOM Manipulation  
+**Technology Stack:** JavaScript | DOM Manipulation  
 
-Key Features:
+**Key Features:**
 - Keyboard and mouse controls
 - Audio event handling
 - Interactive user experience
 
-Overview:  
-Created a browser-based interactive piano application demonstrating event-driven programming and multimedia integration.
+---
+
+## 🌍 Open To Opportunities
+
+- Full Stack Software Engineering Roles  
+- Remote Development Positions  
+- Backend / Frontend Engineering Roles  
+- Freelance & Contract Work  
 
 ---
 
-## Open To Opportunities
-
-- Full Stack Software Engineering Roles
-- Remote Development Positions
-- Backend / Frontend Engineering Roles
-- Freelance & Contract Work
-
----
-
-## Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/usman-farooq-b140a0340/?skipRedirect=true">
