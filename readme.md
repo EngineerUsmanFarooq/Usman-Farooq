@@ -28,7 +28,7 @@ Focused on writing clean, maintainable, and efficient code aligned with modern s
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngineerUsmanFarooq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -37,8 +37,9 @@ Focused on writing clean, maintainable, and efficient code aligned with modern s
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerUsmanFarooq&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
+
 
 ---
 
@@ -128,10 +129,10 @@ Created a browser-based interactive piano application demonstrating event-driven
 ## Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/usman-farooq-b140a0340/?skipRedirect=true">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:usmfrq24@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
